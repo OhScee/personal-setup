@@ -1,0 +1,8 @@
+harfbuzz
+imagemagick
+neovim
+nvm
+pkg-config
+qpdf
+wget
+zlib
